@@ -2,8 +2,8 @@
 
 ## About me 
 
-- 🔭 I’m currently working on [Rubik-cube]
-- 🚀 I’m currently exploring machine learning
+- 🔭 I’m currently working on a [Rubik's Cube Solver](https://github.com/sssumitt/Rubik-Cube)
+- 🚀 I’m currently exploring Machine Learning
 
 ## My Github stats
 
