@@ -2,7 +2,7 @@
 
 ## About me 
 
-- 🔭 I’m currently working on a [Rubik's Cube Solver](https://github.com/sssumitt/Rubik-Cube)
+- 🔭 I’m currently working on a [Rubik's Cube Solver](https://github.com/sssumitt/Rubik-Cube-1)
 - 🚀 I’m currently exploring Machine Learning
 
 ## My Github stats
