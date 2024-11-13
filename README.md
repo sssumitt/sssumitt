@@ -7,7 +7,7 @@
 
 ## My Github stats
 
-![My github stats](https://github-readme-stats.vercel.app/api/?username=sssumit&layout=compact&theme=catppuccin_mocha)
+![My github stats](https://github-readme-stats.vercel.app/api/?username=sssumitt&layout=compact&theme=catppuccin_mocha)
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sssumit&layout=compact&theme=catppuccin_mocha&langs_count=8)
 
 ## My Tech Stack
